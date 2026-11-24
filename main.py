@@ -9,8 +9,8 @@ no dependencies, deterministic output.
 import os
 
 TIP = (
-    "The build isn't stuck. Your agent is reading the error message "
-    "you refused to read. Give it a second. Give yourself one too."
+    "The build isn't stuck — your agent is reading the error you "
+    "scrolled past twice. Breathe. It's doing the part you hate, for free."
 )
 
 
